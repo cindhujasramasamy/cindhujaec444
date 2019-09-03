@@ -7,7 +7,6 @@ Skill to demonstrate video linking
 
 ## Sketches and Photos
 Video link
-https://drive.google.com/open?id=1yv29JstR25MRwB-GVwWQxB4rardkvFtB
 
 
 ## Modules, Tools, Source Used in Solution
