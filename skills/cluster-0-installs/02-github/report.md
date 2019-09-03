@@ -1,9 +1,10 @@
 #  Skill Name
+Git Hub creation
 
-Author: FirstName LastName, YYYY-MM-DD
+Author: Cindhuja SRamasamy, 2019-09-03
 
 ## Summary
-
+Created a git hub account, downloaded git hub for desktop to clone and push edited files.
 
 ## Sketches and Photos
 
