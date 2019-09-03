@@ -1,9 +1,10 @@
 #  Skill Name
+Piazza Sign Up
 
-Author: FirstName LastName, YYYY-MM-DD
+Author: Cindhuja SRamasamy, 2019-09-03
 
 ## Summary
-
+Signed up on Piazza and posted a question
 
 ## Sketches and Photos
 
