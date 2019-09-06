@@ -9,8 +9,8 @@ Installing ESP32 IDF and Toolchain
 Link to drive for viewing the blinking LED
 https://drive.google.com/open?id=1xO2vjTaqYE5AREmmX47KVhLjou54Aby1
 
-<img src="./IMG_3878.JPG" width="45%" />
-<img src="./IMG_3879.JPG" width="45%" />
+<img src="./images/IMG_3878.JPG" width="45%" />
+<img src="./images/IMG_3879.JPG" width="45%" />
 
 
 
