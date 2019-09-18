@@ -1,5 +1,4 @@
-#  Skill Name
-Git Hub creation
+#  Git Hub creation
 
 Author: Cindhuja SRamasamy, 2019-09-03
 
