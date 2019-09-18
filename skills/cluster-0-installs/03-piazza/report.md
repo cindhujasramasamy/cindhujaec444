@@ -1,5 +1,4 @@
-#  Skill Name
-Piazza Sign Up
+#  Piazza Sign Up
 
 Author: Cindhuja SRamasamy, 2019-09-03
 
