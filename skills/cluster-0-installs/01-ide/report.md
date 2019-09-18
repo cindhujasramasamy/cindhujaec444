@@ -1,5 +1,4 @@
-#  Skill Name
-IDE Installation..
+#  IDE Installation..
 
 Author: Cindhuja SRamasamy, 2019-09-03
 
