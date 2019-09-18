@@ -1,5 +1,4 @@
-#  Skill Name
-Video uploading
+#  Video uploading
 Author: Cindhuja SRamasamy, 2019-09-03
 
 ## Summary
